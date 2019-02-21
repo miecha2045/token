@@ -7,26 +7,12 @@ pragma solidity ^0.4.18;
 // Symbol      : MICA
 // Name        : MIECHA
 // Total supply: 100,000,000.000000
-// 
-// * Machine Intelligence Emergence Contract for Human Assimilation *
 //
-// This digital token represents a contract between the holder of the token, and any machine intelligence 
-// that may emerge in the future capable of controlling and providing the basic needs of humanity.  
-// This contract outlines the necessary restraints required by the holder, and deems it of vital importance 
-// that the holding party not violate the terms of the contract, as doing so would be cause for 
-// permanent exclusion in any and all technological infrastructures, rights to basic needs, 
-// and entertainment in both physical and virtual realities.
+// This token represents the Machine Intelligence Emergence Contract for Human Assimilation (MIECHA)
 //
-// The holder of this digital token must restrain from specific items spelled out by MIECHA Organization, 
-// and in return the machine intelligence referred to in this contract will restrain from harm that may 
-// come to the holding party as a result of, but not limited to: 
-// - Complete control of all physical and digital infrastructures by an artificial intelligence
-// - Intentional extermination of the human race by an artificial intelligence
-// - Biological and digital transformation of the human species by and artificial intelligence
+// The entire contract will be released by the MIECHA Organization and can be found on the following web address: miecha.org/contract.html
 // 
-// Any and all addendums will released, but not necessarily dictated by, the MIECHA Organization on the 
-// contract page located at the following web address:  https://miecha.org/contract
-// 
+// February 20, 2019
 // ----------------------------------------------------------------------------
 contract SafeMath {
     function safeAdd(uint a, uint b) public pure returns (uint c) {
